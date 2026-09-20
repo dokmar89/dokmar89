@@ -13,12 +13,13 @@ Zaměřuji se na praktický provoz IT: funkční systémy, řešení problémů 
 | Vývoj aplikací | TypeScript, React, Next.js a propojení služeb |
 | Hardwarové projekty | Experimenty s ESP32 a Raspberry Pi |
 
-Jde o oblasti mého zaměření. Současné veřejné repozitáře dokládají především vývoj aplikací a nástrojů podpory; samostatné případové studie sítí, správy systémů a hardwaru teprve doplním.
+Veřejné repozitáře ukazují vývoj aplikací, nástroje podpory i praktický projekt síťové diagnostiky. Další anonymizované případové studie správy systémů a hardwaru budu průběžně doplňovat.
 
 ## Vybrané projekty
 
 | Projekt | Co ukazuje | Stav |
 | --- | --- | --- |
+| [Netmap](https://github.com/dokmar89/netmap) | Diagnostika sítí, MikroTik/RouterOS, SNMP, Wi-Fi a Raspberry Pi appliance | Funkční alpha prototyp s testy a CI |
 | [IT znalostní báze a provozní portál](https://github.com/dokmar89/skolap) | Články podpory, návody, šablony a praktické IT nástroje | Zdrojový projekt do portfolia |
 | [Konfigurovatelný ověřovací widget](https://github.com/dokmar89/widget_v) | Typované komponenty Reactu, upravitelné průchody a integrace serverových služeb | Prototyp; sestavení balíčku není dokončené |
 | [Platforma pro videopohovory](https://github.com/dokmar89/platforma_video) | Přihlašování, plánování, video a rozhraní programovacích úloh | Integrační projekt; vyžaduje nastavení služeb |
