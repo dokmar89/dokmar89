@@ -1,41 +1,41 @@
-# IT Infrastructure, Operations & Support
+# IT infrastruktura, provoz a podpora
 
-I focus on practical IT operations: keeping systems usable, troubleshooting problems and turning recurring support work into clear documentation and useful tools.
+Zaměřuji se na praktický provoz IT: funkční systémy, řešení problémů a převádění opakovaných úkolů podpory do srozumitelné dokumentace a užitečných nástrojů.
 
-## Technical focus
+## Technické zaměření
 
-| Area | Focus |
+| Oblast | Zaměření |
 | --- | --- |
-| Infrastructure & networking | MikroTik, network administration and troubleshooting |
-| Systems & support | Windows, Linux, hardware diagnostics and day-to-day IT support |
-| Workspace operations | Google Workspace and repeatable support procedures |
-| Automation & integrations | Python, PHP and tools that reduce manual work |
-| Application development | TypeScript, React, Next.js and service integrations |
-| Hardware projects | ESP32 and Raspberry Pi experimentation |
+| Infrastruktura a sítě | MikroTik, správa sítí a diagnostika problémů |
+| Systémy a podpora | Windows, Linux, diagnostika hardwaru a každodenní IT podpora |
+| Firemní prostředí | Google Workspace a opakovatelné postupy podpory |
+| Automatizace a integrace | Python, PHP a nástroje omezující ruční práci |
+| Vývoj aplikací | TypeScript, React, Next.js a propojení služeb |
+| Hardwarové projekty | Experimenty s ESP32 a Raspberry Pi |
 
-These are my areas of focus. The public repositories below primarily document application development and support tooling; dedicated networking, systems-administration and hardware case studies are still to be added.
+Jde o oblasti mého zaměření. Současné veřejné repozitáře dokládají především vývoj aplikací a nástrojů podpory; samostatné případové studie sítí, správy systémů a hardwaru teprve doplním.
 
-## Selected projects
+## Vybrané projekty
 
-| Project | What to explore | Status |
+| Projekt | Co ukazuje | Stav |
 | --- | --- | --- |
-| [IT knowledge base & operations portal](https://github.com/dokmar89/skolap) | Support articles, guides, templates and practical IT utilities | Portfolio source |
-| [Configurable verification widget](https://github.com/dokmar89/widget_v) | Typed React components, configurable flows and backend integration source | Prototype; packaging incomplete |
-| [Video interview platform](https://github.com/dokmar89/platforma_video) | Identity, scheduling, video and coding-exercise UI | Integration project; live setup required |
-| [Sféra pro domov](https://github.com/dokmar89/sferaprodomov) | Business website, reusable UI and CMS integration | Website source |
-| [Americká vrba](https://github.com/dokmar89/americka-vrba) | Product presentation and server-side enquiry handling | Website source |
+| [IT znalostní báze a provozní portál](https://github.com/dokmar89/skolap) | Články podpory, návody, šablony a praktické IT nástroje | Zdrojový projekt do portfolia |
+| [Konfigurovatelný ověřovací widget](https://github.com/dokmar89/widget_v) | Typované komponenty Reactu, upravitelné průchody a integrace serverových služeb | Prototyp; sestavení balíčku není dokončené |
+| [Platforma pro videopohovory](https://github.com/dokmar89/platforma_video) | Přihlašování, plánování, video a rozhraní programovacích úloh | Integrační projekt; vyžaduje nastavení služeb |
+| [Sféra pro domov](https://github.com/dokmar89/sferaprodomov) | Firemní web, sdílené komponenty a integrace CMS | Zdrojový kód webu |
+| [Americká vrba](https://github.com/dokmar89/americka-vrba) | Prezentace produktu a serverové zpracování poptávek | Zdrojový kód webu |
 
-Each project README explains its scope, architecture, setup and known limitations. Source availability does not imply a currently running deployment or a verified production release.
+README jednotlivých projektů popisují rozsah, architekturu, spuštění a známá omezení. Dostupný zdrojový kód sám o sobě neznamená aktuálně běžící nasazení ani ověřené produkční vydání.
 
-## Engineering approach
+## Jak k práci přistupuji
 
-- Make support procedures understandable and reusable.
-- Separate browser interfaces from trusted backend operations.
-- Document configuration, dependencies and remaining work honestly.
-- Use synthetic data in demonstrations and keep credentials outside version control.
+- Postupy podpory mají být srozumitelné a opakovaně použitelné.
+- Rozhraní v prohlížeči odděluji od důvěryhodných serverových operací.
+- Konfiguraci, závislosti a zbývající práci popisuji otevřeně.
+- V ukázkách používám fiktivní data a přihlašovací údaje držím mimo Git.
 
-## Portfolio direction
+## Další směr portfolia
 
-Future case studies will cover sanitized MikroTik/network troubleshooting, Windows/Linux operations, Google Workspace automation, Python/PHP utilities and ESP32/Raspberry Pi projects. They will include the problem, implementation, validation and lessons learned without exposing internal topology or private configuration.
+Doplním anonymizované případové studie řešení síťových problémů a MikroTiku, provozu Windows/Linux, automatizace Google Workspace, nástrojů v Pythonu/PHP a projektů ESP32/Raspberry Pi. Každá bude obsahovat problém, řešení, ověření a získané zkušenosti bez zveřejnění interní topologie či soukromé konfigurace.
 
-Legacy variants, experiments and upstream starters remain labelled in their own READMEs so that the selected work is easy to distinguish.
+Starší varianty, experimenty a převzaté výchozí projekty jsou označené ve vlastních README, aby bylo možné odlišit je od vybraných ukázek.
