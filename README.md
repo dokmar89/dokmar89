@@ -37,4 +37,8 @@ README jednotlivých projektů popisují architekturu, spuštění, provedené t
 
 ## Další projekty
 
-Na profilu jsou také webové integrační projekty, prototypy a starší varianty. Jejich README jasně uvádějí rozsah a stav, aby je bylo možné odlišit od hlavních ukázek výše. Další anonymizované případové studie se zaměří na nasazování Windows, automatizaci, hlasové nástroje a embedded diagnostiku bez zveřejnění interní topologie nebo soukromé konfigurace.
+- [LAURA automobilový displej](https://github.com/dokmar89/laura-car-display) — ESP32-S3, LVGL, ILI9488 a CAN listen-only prototyp.
+- [Modern Jarvis / Artemis](https://github.com/dokmar89/modern-jarvis) — český hlasový asistent pro Windows s omezenými lokálními nástroji.
+- [Python Utility Lab](https://github.com/dokmar89/python-utility-lab) — převod stromu projektu do HTML a český přepis zvuku pomocí WhisperX.
+
+Na profilu jsou také webové integrační projekty, prototypy a starší varianty. Jejich README uvádějí rozsah a stav, aby je bylo možné odlišit od hlavních ukázek. Další anonymizované případové studie budou zveřejněné bez interní topologie a soukromé konfigurace.
