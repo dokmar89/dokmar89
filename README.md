@@ -23,7 +23,7 @@ Zaměřuji se na praktický provoz IT, síťovou diagnostiku, automatizaci a ře
 | [EmbedForge](https://github.com/dokmar89/embedforge) | Deterministická elektrická pravidla, solver pinů a napájení, FastAPI a Next.js | 124 testů prošlo, web má ověřené produkční sestavení |
 | [Local Apple MDM](https://github.com/dokmar89/local-apple-mdm) | PKI, mTLS, enrollment, APNs a trvalá fronta příkazů | Laboratorní projekt s 21 automatickými testy |
 | [Orion UEM/MDM](https://github.com/dokmar89/orion_mdm) | Správa zařízení, backendové rozhraní a provozní dokumentace | Veřejný zdrojový projekt s testy |
-| [IT znalostní báze a provozní portál](https://github.com/dokmar89/skolap) | Návody podpory, šablony, články a praktické IT nástroje | Zdrojový projekt do portfolia |
+| [Windows 11 Deployment Kit](https://github.com/dokmar89/windows-11-deployment-kit) | PowerShell, předinstalační inventura, příprava USB, offline aplikace, ovladače a auditní logy | Anonymizovaná referenční implementace se syntaktickou kontrolou v CI |
 
 README jednotlivých projektů popisují architekturu, spuštění, provedené testy i známá omezení. Laboratorní a embedded projekty výslovně oddělují ověřenou softwarovou část od kontrol, které vyžadují skutečný hardware nebo provozní služby.
 
@@ -40,5 +40,6 @@ README jednotlivých projektů popisují architekturu, spuštění, provedené t
 - [LAURA automobilový displej](https://github.com/dokmar89/laura-car-display) — ESP32-S3, LVGL, ILI9488 a CAN listen-only prototyp.
 - [Modern Jarvis / Artemis](https://github.com/dokmar89/modern-jarvis) — český hlasový asistent pro Windows s omezenými lokálními nástroji.
 - [Python Utility Lab](https://github.com/dokmar89/python-utility-lab) — převod stromu projektu do HTML a český přepis zvuku pomocí WhisperX.
+- [IT znalostní báze a provozní portál](https://github.com/dokmar89/skolap) — návody podpory, šablony a praktické IT nástroje.
 
 Na profilu jsou také webové integrační projekty, prototypy a starší varianty. Jejich README uvádějí rozsah a stav, aby je bylo možné odlišit od hlavních ukázek. Další anonymizované případové studie budou zveřejněné bez interní topologie a soukromé konfigurace.
